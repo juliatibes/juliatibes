@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Trabalho atualmente como Desenvolvedora na Diretoria de TI da Prefeitura de Criciúma<br>👯 Espero colaborar com o desenvolvimento de aplicações para facilitar a vida das pessoas<br>🤝 Busco uma oportunidade de atuar na área de front-end<br>🌱Estou aprendendo atualmente JavaScript (e gostando bastante)<br>⚡ Sou também Biomédica,  adoro fazer tricô e ler livros de ficção :)
+🔭 Trabalho atualmente como Desenvolvedora na Diretoria de TI da Prefeitura de Criciúma<br>👯 Espero colaborar com o desenvolvimento de aplicações para facilitar a vida das pessoas<br>🤝 Busco uma oportunidade de aprender cada vez mais sobre front-end<br>🌱Estou aprendendo atualmente JavaScript (e gostando bastante)<br>⚡ Sou também Biomédica,  adoro fazer tricô, ler livros de ficção e jogar RPG de mesa :)
 
 
 ## 🌐 Socials:
