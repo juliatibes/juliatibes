@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Trabalho atualmente como Desenvolvedora na Diretoria de TI da Prefeitura de Criciúma<br>👯 Espero colaborar com o desenvolvimento de aplicações para facilitar a vida das pessoas<br>🤝 Busco uma oportunidade de aprender cada vez mais sobre front-end<br>🌱Estou aprendendo atualmente JavaScript (e gostando bastante)<br>⚡ Sou também Biomédica,  adoro fazer tricô, ler livros de ficção e jogar RPG de mesa :)
+🔭 Trabalho atualmente como Desenvolvedora na Diretoria de TI da Prefeitura de Criciúma<br>👯 Espero colaborar com o desenvolvimento de aplicações para facilitar a vida das pessoas<br>🤝 Busco uma oportunidade de aprender cada vez mais sobre front-end<br>🌱Estou aprendendo atualmente JavaScript e Java (e gostando bastante)<br>⚡ Sou também Biomédica,  adoro fazer tricô, ler livros de ficção e jogar RPG de mesa :)
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliatibes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliatibes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Julia Tibes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliatibes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
